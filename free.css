@@ -10,7 +10,7 @@
 
 .extra-div{
   background-color: white;
-  margin-bottom: -99px !important;
+  /*margin-bottom: -99px !important;*/
   border-radius: 3px;
   padding: 50px !important; 
   transition: 0.3s;
